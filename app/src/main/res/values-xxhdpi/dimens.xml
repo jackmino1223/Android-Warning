@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="fab_radius">180dp</dimen>
+    <string name="density">xxhdpi</string>
+
+</resources>

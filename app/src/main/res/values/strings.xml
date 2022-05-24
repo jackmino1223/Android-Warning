@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MOV COMPLIANCE WARNIZER</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_image_message">Please first tap on the picture icon or camera icon and import the image to insert the warning</string>
+    <string name="instruction_init">Tap on image or camera option and import the image to overlay, then tap on the pencil icon to choose
+        warning and then save it.
+    </string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="fab_radius">150dp</dimen>
+
+    <string name="density">default</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="fab_radius">230dp</dimen>
+    <string name="density">sw480dpi</string>
+
+</resources>
